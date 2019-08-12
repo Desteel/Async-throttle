@@ -1,4 +1,4 @@
-#Async throttle
+# Async throttle
 
 ```
 const func = async() => {}
